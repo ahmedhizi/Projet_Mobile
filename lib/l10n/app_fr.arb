@@ -1,0 +1,11 @@
+{
+  "@@locale": "fr",
+  "appTitle": "jarya.tn",
+  "navDashboard": "Accueil",
+  "navNutrition": "Nutrition",
+  "navWorkouts": "Entraînements",
+  "navProfile": "Profil",
+  "navRoutes": "Parcours",
+  "navPantry": "Garde-manger",
+  "moduleNotStarted": "Ce module n'est pas encore commencé."
+}

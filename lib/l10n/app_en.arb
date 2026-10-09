@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+  "appTitle": "jarya.tn",
+  "navDashboard": "Home",
+  "navNutrition": "Nutrition",
+  "navWorkouts": "Workouts",
+  "navProfile": "Profile",
+  "navRoutes": "Routes",
+  "navPantry": "Pantry",
+  "moduleNotStarted": "This module has not been started yet."
+}

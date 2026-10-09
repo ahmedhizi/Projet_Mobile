@@ -1,0 +1,11 @@
+{
+  "@@locale": "ar",
+  "appTitle": "jarya.tn",
+  "navDashboard": "الرئيسية",
+  "navNutrition": "الماكلة",
+  "navWorkouts": "التمارين",
+  "navProfile": "البروفيل",
+  "navRoutes": "المسالك",
+  "navPantry": "المونة",
+  "moduleNotStarted": "المودول هذا مازال ما بداش."
+}
